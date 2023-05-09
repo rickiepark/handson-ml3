@@ -9,7 +9,7 @@
 
 ## 빠르게 시작하기
 
-### 아무것도 설치하지 않고도 온라인에서 이 노트북으로 플레이하고 싶은가요?
+### 아무것도 설치하지 않고도 온라인에서 이 노트북을 실행하고 싶은가요?
 
 * <a href="https://colab.research.google.com/github/rickiepark/handson-ml3/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -66,4 +66,4 @@ SSL 인증서를 설치해야 합니다([스택오버플로 질문](https://stac
 
 ## 도움을 주신 분들
 
-유용한 피드백을 제공하거나 이슈를 제기하거나 풀 리퀘스트를 보내는 등 이 프로젝트에 기여해 주신 모든 분들께 감사의 말씀을 드립니다(https://github.com/ageron/handson-ml3/graphs/contributors). [박해선](https://github.com/rickiepark) 님과 Ian Beauregard 님에게 특별히 감사드립니다. 전체 노트북을 리뷰했을 뿐만 아니라 일부 연습문제 해답에 대한 도움을 주고, 많은 PR을 보내주었습니다. 연습문제 해답에 도움을 준 깃허브 사용자 SuperYorio에게 감사합니다. 많은 오류 수정이 포함된 훌륭한 PR을 많이 보내준 Victor Khaustov에게 감사드립니다. 마지막으로 구글 클라우드 크레딧을 제공하여 이 작업을 지원해주신 구글 ML 개발자 프로그램 팀에게도 감사드립니다.
+유용한 피드백을 제공하거나 이슈를 제기하거나 풀 리퀘스트를 보내는 등 이 프로젝트에 기여해 주신 모든 분들께 감사의 말씀을 드립니다. 특별히 [박해선](https://github.com/rickiepark)과 Ian Beauregard에게 감사드립니다. 전체 노트북을 리뷰했을 뿐만 아니라 일부 연습문제 해답에 대한 도움을 주고, 많은 PR을 보내주었습니다. 연습문제 해답에 도움을 준 깃허브 사용자 SuperYorio에게 감사합니다. 많은 오류 수정이 포함된 훌륭한 PR을 많이 보내준 Victor Khaustov에게 감사드립니다. 마지막으로 구글 클라우드 크레딧을 제공하여 이 작업을 지원해주신 구글 ML 개발자 프로그램 팀에게도 감사드립니다.
