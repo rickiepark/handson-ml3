@@ -3,7 +3,7 @@
 
 이 프로젝트는 파이썬으로 머신 러닝의 기초를 배우는 것이 목표입니다. 여기에는 <[핸즈온 머신러닝 3판](https://bit.ly/homl3-home)>(한빛미디어, 2023)의 연습 문제에 대한 예제 코드와 솔루션이 포함되어 있습니다:
 
-<a href="https://bit.ly/homl3-home"><img src="https://learning.oreilly.com/library/cover/9781098125967/300w/" title="book" width="150" border="0" /></a>
+<a href="https://bit.ly/homl3-home"><img src="cover.png" title="book" width="500" border="1" /></a>
 
 **참고**: 2판의 노트북은 [rickiepark/handson-ml2](https://github.com/rickiepark/handson-ml2)에 있습니다. 1판의 노트북은 [rickiepark/handson-ml](https://github.com/rickiepark/handson-ml)에 있습니다.
 
