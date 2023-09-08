@@ -1,7 +1,7 @@
 핸즈온 머신러닝 3판
 =================================
 
-이 프로젝트는 파이썬으로 머신 러닝의 기초를 배우는 것이 목표입니다. 여기에는 <[핸즈온 머신러닝 3판](https://bit.ly/homl3-home)>(한빛미디어, 2023)의 연습 문제에 대한 예제 코드와 솔루션이 포함되어 있습니다:
+이 프로젝트는 파이썬으로 머신 러닝의 기초를 배우는 것이 목표입니다. 여기에는 <[핸즈온 머신러닝 3판](https://bit.ly/homl3-home)>(한빛미디어, 2023)의 연습 문제에 대한 예제 코드와 솔루션이 포함되어 있습니다: ([교보문고](https://product.kyobobook.co.kr/detail/S000208981368), [Yes24](https://www.yes24.com/Product/Goods/122338517), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324278819), [한빛미디어](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1539397165))
 
 <a href="https://bit.ly/homl3-home"><img src="cover.png" title="book" width="500" border="1" /></a>
 
